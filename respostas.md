@@ -135,3 +135,7 @@ COLOCAR AQUI O CÓDIGO DE CONCLUSÃO APÓS O VERIFICADOR MOSTRAR 16/16.
 
 E na questão 1, se o professor exigir o número exato do tamanho, depois podemos substituir pelo valor real do `docker images`.
 ```
+
+
+
+
